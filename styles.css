@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 55px;
+}
+
+h2{
+    margin-top: 0;
+    font-family: 'Square Peg', cursive;
+    font-size: 50px;
+}
+
+h3{
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
+
+p{
+    margin-top: 0;
+    font-family: 'Dongle', sans-serif;
+    font-size: 30px;
+}
+
+
+.top-container{
+    background-color: lavenderblush;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.pelangi{
+    width: 50%;
+}
+
+.purpleheart{
+    width: 5%;
+}
+
+.middle-container{
+   background-color: lavender;
+   padding-top: 50px;
+
+}
+
+.bottom-container{
+    background-color: lightpink;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.profile{
+    padding-bottom: 50px;
+}
+
+.edu{
+    padding-top: 50px;
+}
+
+.education-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    line-height: 1;
+}
+
+.velin{
+    
+    width: 200px;
+    height: 200px;
+}
+
+.sma{
+    width: 145px;
+}
+
+.uni{
+    width: 143px;
+}
+
+.experience-row{
+    line-height: 1;
+}
+
+.exp{
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+
+.socmed{
+    width: 25px;
+    margin-right: 5%;
+    padding-bottom: 5px;
+}
+
+.twt{
+    width: 25px;
+    padding-bottom: 5px;
+}
+
+.surname{
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+}
